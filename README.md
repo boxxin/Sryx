@@ -36,5 +36,6 @@
 [2;34m{CHANGED} Gun lib color
 [2;34m{CHANGED} Chams to be transparent and red
 ```
+im not fixing that im too lazy
 
 # Have Fun!
